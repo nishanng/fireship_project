@@ -18,4 +18,12 @@
 	- git remote add origin <link>
 	- git remote 
 	- git remote show 
-	
+
+
+## Git push ##
+
+	- git push origin master -u 
+
+>> "-u" : set origin to upstream remote 
+
+## This basically helps with git pull when getting things from the remote repo without any extra arguments ##
