@@ -27,3 +27,16 @@
 >> "-u" : set origin to upstream remote 
 
 ## This basically helps with git pull when getting things from the remote repo without any extra arguments ##
+
+## Git Fetch & Merge ##
+
+	- git fetch >> pulls the latest remote repo changes
+
+	>> however, make sure to check the head of each remote and local master branch and see that the commits are different
+
+
+## Git Merge ##
+
+	- git merge origin/master 
+
+>> This will essentially merge the local repo with the master and the head will be pointing to the same commit....
