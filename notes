@@ -9,3 +9,6 @@
 	- git config --global user.name "Jeff Delaney"
        ` - git config --global user.email "hello@fireship.io"
 
+## Some fundamentals ##
+
+	- git commit -a -m "this is another commit"
