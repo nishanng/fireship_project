@@ -1,0 +1,11 @@
+#Some commands are ##
+
+	- git config --list 
+
+>> Should give the informatoin 
+
+# Modify config 
+
+	- git config --global user.name "Jeff Delaney"
+       ` - git config --global user.email "hello@fireship.io"
+
