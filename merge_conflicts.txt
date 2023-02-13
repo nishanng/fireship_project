@@ -5,5 +5,8 @@
     - also when you have commits for the same code and trying to merge the branches
 
 
+<<<<<<< HEAD
 ##############################################
+=======
+>>>>>>> extras
 
