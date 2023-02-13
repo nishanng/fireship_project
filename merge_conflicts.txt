@@ -8,3 +8,6 @@
 _______________________________________
 
     - git merge --abort 
+
+
+    >> Aw man you have to checkout this feature...
