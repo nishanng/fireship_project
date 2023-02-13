@@ -42,3 +42,18 @@
 >> This will essentially merge the local repo with the master and the head will be pointing to the same commit....
 
 ## git pull ##
+
+>> git pull makes things easier, combines fetch and merge together.
+
+
+	- git pull 
+
+## git clone ##
+
+>> cloning the remote repo 
+
+	- git clone <url>
+
+	- git log >> for the history of commits 
+
+	
