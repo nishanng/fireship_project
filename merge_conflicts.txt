@@ -1,0 +1,3 @@
+<< Conflicts >>
+
+    - 2 branches modify the same code and git can't figure out which one to use 

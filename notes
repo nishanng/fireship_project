@@ -56,4 +56,9 @@
 
 	- git log >> for the history of commits 
 
-	
+
+## git branch ##
+
+	- git branch -b cool
+
+>> let's me create and checkout to the branch
