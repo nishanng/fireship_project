@@ -8,3 +8,6 @@
 _______________________________________
 
     - git merge --abort 
+
+
+>> Just some extra stuff that I want to add 
