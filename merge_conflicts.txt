@@ -7,6 +7,4 @@
 
 _______________________________________
 
-    - git merge --abort
-
->> This command comes very handy 
+    - git merge --abort 
