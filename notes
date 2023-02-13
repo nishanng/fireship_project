@@ -14,13 +14,13 @@
 	- git commit -a -m "this is another commit"
 
 
-## Git remote ##
+## git remote ##
 	- git remote add origin <link>
 	- git remote 
 	- git remote show 
 
 
-## Git push ##
+## git push ##
 
 	- git push origin master -u 
 
@@ -35,8 +35,10 @@
 	>> however, make sure to check the head of each remote and local master branch and see that the commits are different
 
 
-## Git Merge ##
+## git merge ##
 
 	- git merge origin/master 
 
 >> This will essentially merge the local repo with the master and the head will be pointing to the same commit....
+
+## git pull ##
