@@ -10,4 +10,8 @@ _______________________________________
     - git merge --abort 
 
 
+<<<<<<< HEAD
 >> Just some extra stuff that I want to add 
+=======
+    >> Aw man you have to checkout this feature...
+>>>>>>> extras
