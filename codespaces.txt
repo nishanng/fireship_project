@@ -1,5 +1,0 @@
-<< Some information in "Codespaces" >>
-
-    - Is awesome as it allows us to collaborate through the browser directly without forking the code to your machine...
-
-    - will run a VM to simulate the environment for working on the codebase
