@@ -5,8 +5,8 @@
     - also when you have commits for the same code and trying to merge the branches
 
 
-<<<<<<< HEAD
-##############################################
-=======
->>>>>>> extras
+_______________________________________
 
+    - git merge --abort
+
+>> This command comes very handy 
