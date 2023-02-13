@@ -1,0 +1,8 @@
+<< git reset >>
+
+    - git reset <<hash>>
+
+
+# Be careful while using the hard flag ##
+
+    - git reset --hard <<hash>>
