@@ -1,0 +1,23 @@
+<< forking >>
+
+    - forking the repo to your own repo
+
+    - work on the project and submit a request to merge code
+
+
+## Pull request ##
+
+    -  way for you to submit a contribution to another repo
+
+    - after forked the original is the "Upstream repo"
+
+    - git branch and work on a feature
+
+        >> git branch -b freature 
+
+
+        >> git remote add upstream <<URL>>
+
+        >> git fetch and git rebase 
+
+## This allows the repo to be in sync witht the upstream repo....
