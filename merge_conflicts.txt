@@ -1,3 +1,9 @@
 << Conflicts >>
 
     - 2 branches modify the same code and git can't figure out which one to use 
+
+    - also when you have commits for the same code and trying to merge the branches
+
+
+##############################################
+
